@@ -1,4 +1,4 @@
-**CRM (customer management platform)
+**CRM (customer management platform)**
 ```
 Django customer management platform
 ```
